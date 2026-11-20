@@ -1,0 +1,17 @@
+{
+  "name": "PALM OS Enterprise",
+  "short_name": "PALM OS",
+  "description": "Integrated Oil Palm Plantation Management System — HO, Region, Estate, Afdeling, PKS",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f3f5f2",
+  "theme_color": "#0f6b4b",
+  "lang": "id",
+  "categories": ["business", "productivity"],
+  "icons": [
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
